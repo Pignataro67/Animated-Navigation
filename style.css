@@ -28,11 +28,11 @@ form {
   font-size: 2rem;
   padding: 1rem 2rem;
   display: block;
-  width: 100%;
+  width: 95%;
 }
 
 .input::placeholder {
-  color: #d5d5d5;
+  color: #e5e5e5;
 }
 
 .input:focus {
