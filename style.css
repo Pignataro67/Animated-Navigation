@@ -30,3 +30,7 @@ form {
   display: block;
   width: 100%;
 }
+
+.input::placeholder {
+  color: #d5d5d5;
+}
