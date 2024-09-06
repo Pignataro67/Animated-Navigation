@@ -57,3 +57,8 @@ body {
   width: 75px;
   object-fit: cover;
 }
+
+.testimonial {
+  line-height: 28px;
+  text-align: justify;
+}
