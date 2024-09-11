@@ -52,3 +52,8 @@ body {
 .fa-quote-left {
   right: 40px;
 }
+
+.user .user-image {
+  border-radius: 50%;
+  height: 75px;
+}
