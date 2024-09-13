@@ -72,3 +72,10 @@ body {
   font-weight: normal;
   margin: 10px 0;
 }
+
+
+.progress-bar {
+  background-color: #fff;
+  height: 4px;
+}
+
