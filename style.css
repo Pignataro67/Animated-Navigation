@@ -82,9 +82,8 @@ body {
   transform-origin: left;
 }
 
-@k
-eyframes grow {
-  0
-  % {
+@keyframes grow {
+  0% {
     transform: scaleX(0);
   }
+}
