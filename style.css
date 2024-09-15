@@ -92,4 +92,8 @@ body {
   .testimonial-container {
     padding: 20px 30px;
   }
+
+  .fa-quote {
+    display: none;
+  }
 }
