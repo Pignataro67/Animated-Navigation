@@ -27,3 +27,7 @@ input[type='range'] {
   margin: 18px 0;
   -webkit-appearance: none;
 }
+
+input[type='range']:focus {
+  outline: none;
+}
