@@ -91,7 +91,7 @@ input[type='range']::-moz-range-thumb {
 input[type='range']::-ms-track {
   background: purple;
   border-radius: 4px;
-  width: 100%;
+  width: 95%;
   height: 13px;
   cursor: pointer;
 }
