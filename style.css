@@ -103,6 +103,6 @@ input[type='range']::-ms-thumb {
   background: #fff;
   border-radius: 50%;
   border: 1px solid purple;
-  margin-top: -7px;
+  margin-top: -9px;
   cursor: pointer;
 }
