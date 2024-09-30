@@ -78,10 +78,10 @@ input[type='range']::-moz-range-thumb {
 
 input[type='range']::-moz-range-thumb {
   -webkit-appearance: none;
-  height: 35px;
+  height: 40px;
   width: 30px;
   background: #fff;
-  border-radius: 50%;
+  border-radius: 55%;
   border: 1px solid purple;
   margin-top: -7px;
   cursor: pointer;
