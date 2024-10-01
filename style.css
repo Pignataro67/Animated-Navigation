@@ -23,8 +23,8 @@ h2 {
 }
 
 input[type='range'] {
-  width: 295px;
-  margin: 20px 0;
+  width: 300px;
+  margin: 25px 0;
   -webkit-appearance: none;
 }
 
