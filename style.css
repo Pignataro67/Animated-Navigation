@@ -15,11 +15,11 @@ body {
 
 h2 {
   position: absolute;
-  top: 40px;
+  top: 35px;
 }
 
 .range-container {
-  position: relative;
+  position: -ms-page; 
 }
 
 input[type='range'] {
