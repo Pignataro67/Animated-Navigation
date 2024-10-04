@@ -77,8 +77,8 @@ input[type='range']::-moz-range-thumb {
 
 input[type='range']::-moz-range-thumb {
   -webkit-appearance: none;
-  height: 40px;
-  width: 30px;
+  height: 45px;
+  width: 35px;
   background: #fff;
   border-radius: 55%;
   border: 1px solid purple;
