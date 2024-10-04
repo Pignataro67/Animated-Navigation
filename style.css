@@ -37,8 +37,8 @@ input[type='range'] + label {
   position: relative;
   top: -20px;
   left: 90px;
-  width: 80px;
-  padding: 5px 0;
+  width: 85px;
+  padding: 10px 0;
   text-align: center;
   border-radius: 5px;
   box-shadow: 0 0 7px rgba(0, 0, 0, 0.3);
