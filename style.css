@@ -81,8 +81,8 @@ input[type='range']::-moz-range-thumb {
   width: 35px;
   background: #fff;
   border-radius: 55%;
-  border: 1px solid purple;
-  margin-top: -7px;
+  border: 3px solid purple;
+  margin-top: -9px;
   cursor: pointer;
 }
 
