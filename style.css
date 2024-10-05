@@ -101,7 +101,7 @@ input[type='range']::-ms-thumb {
   width: 24px;
   background: #fff;
   border-radius: 50%;
-  border: 1px solid purple;
-  margin-top: -9px;
+  border: 3px solid purple;
+  margin-top: -12px;
   cursor: pointer;
 }
