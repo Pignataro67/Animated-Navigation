@@ -60,14 +60,14 @@ input[type='range']::-moz-range-track {
   background: purple;
   border-radius: 4px;
   width: 95%;
-  height: 15px;
+  height: 20px;
   cursor: move;
 }
 
 input[type='range']::-moz-range-thumb {
   -webkit-appearance: none;
-  height: 24px;
-  width: 24px;
+  height: 22px;
+  width: 22px;
   background: #fff;
   border-radius: 50%;
   border: 1px solid purple;
