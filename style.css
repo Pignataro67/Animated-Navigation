@@ -42,5 +42,6 @@ body {
   left: 0;
   transform: translateY(-50%);
   height: 4px;
-
+  width: 100%;
+  z-index: -1;
 }
