@@ -31,7 +31,7 @@ body {
   position: relative;
   margin-bottom: 30px;
   max-width: 100%;
-  width: 350px;
+  width: 345px;
 }
 
 .progress-container::before {
@@ -41,7 +41,7 @@ body {
   top: 50%;
   left: 0;
   transform: translateY(-50%);
-  height: 4px;
+  height: 3px;
   width: 100%;
   z-index: -1;
 }
