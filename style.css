@@ -59,11 +59,10 @@ body {
 }
 
 .circle {
-  und-color: var(--line-border-fill);
-    position: absolute;
-    top: 50%;
-    left: 0;
-    transform: translateY(-50%);
-    height: 4px;
-    width: 0%;
+  position: absolute;
+  top: 45%;
+  left: 0;
+  transform: translateY(-50%);
+  height: 6px;
+  width: 0%;
 }
