@@ -29,8 +29,8 @@ body {
   display: flex;
   justify-content: space-between;
   position: relative;
-  margin-bottom: 30px;
-  max-width: 100%;
+  margin-bottom: 35px;
+  max-width: 95%;
   width: 345px;
 }
 
