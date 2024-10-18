@@ -3,7 +3,6 @@
 :root {
   --line-border-fill: #3498db;
   --line-border-empty: #383838;
-
 }
 
 * {
@@ -16,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 95vh;
+  height: 85vh;
   overflow: hidden;
   margin: 0;
 }
