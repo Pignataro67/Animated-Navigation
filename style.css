@@ -60,9 +60,9 @@ body {
 
 .circle {
   position: absolute;
-  top: 45%;
+  top: 35%;
   left: 0;
   transform: translateY(-50%);
-  height: 6px;
+  height: 5px;
   width: 0%;
 }
