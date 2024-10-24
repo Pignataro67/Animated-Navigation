@@ -15,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 90vh;
+  height: 85vh;
   overflow: hidden;
   margin: 0;
 }
@@ -28,7 +28,7 @@ body {
   display: flex;
   justify-content: space-between;
   position: relative;
-  margin-bottom: 40px;
+  margin-bottom: 45px;
   max-width: 85%;
   width: 350px;
 }
