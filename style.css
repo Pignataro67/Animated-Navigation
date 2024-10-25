@@ -81,9 +81,9 @@ body {
   border-radius: 5px;
   cursor: pointer;
   font-family: inherit;
-  padding: 6px 35px;
+  padding: 6px 40px;
   margin: 5px;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .btn:active {
