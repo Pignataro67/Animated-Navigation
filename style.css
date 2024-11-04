@@ -41,4 +41,6 @@ body {
 
 .ball {
   background: #fff;
+  height: 34px;
+  width: 34px;
 }
