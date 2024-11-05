@@ -55,3 +55,9 @@ body {
 .toggle:checked + .label .ball {
   animation: slideOn 0.3s linear forwards;
 }
+
+@keyframes slideOn {
+  0% {
+    transform: translateX(0) scale(1);
+  }
+}
